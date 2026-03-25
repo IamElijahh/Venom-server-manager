@@ -1,0 +1,28 @@
+🐍 VENOM SERVER MANAGER - VERSION 1.0 🐍
+
+🚀 NEW FEATURES
+➤ 🟢 Auto-Name Updater: Real server names (with emojis) load instantly.
+➤ 🟣 Auto-Join (Spam): Mod forces entry into full servers every 4s.
+➤ 🔍 Live Search: Quickly filter your saved list by name or IP.
+➤ 📅 Last Played Tracker: Log connection times for every server.
+➤ 📂 Smart Categories: Optional auto-sorting by "Today" or "Weekly."
+
+📦 SHARING & DATA
+➤ 📥 Row Import: Import specific servers via clean UI prompts.
+➤ 📤 Row Export: Export JSON strings directly from any slot.
+➤ 📋 Clipboard Tools: Bulk Import/Export for your entire list.
+➤ 💾 Persistent Saving: Your favorite servers stay saved forever.
+
+🎨 UI & CUSTOMIZATION
+➤ 🎭 Theme Engine: Switch between Dark, Blue, Moss, and Crimson.
+➤ 📐 Modern API 9 Layout: Optimized spacing and top-left exit.
+➤ ⚙️ Enlarged Settings: Beautifully spaced configuration menu.
+➤ 🛝 Sliding Dev Card: Slick developer info menu slides into view.
+
+🛠️ SUPPORT & STABILITY
+➤ 🛰️ GitHub Integration: In-game update notifications live.
+➤ 📜 Patch Notes: Read this changelog directly inside the game.
+➤ 🐛 Bug Reporter: Direct submission to GitHub Issues page.
+➤ 🔧 API 9 Fixes: Resolved all clipboard and threading errors.
+
+✨ Credits: Built by VENOM (ELIJAH)
