@@ -1,56 +1,55 @@
 🐍 Venom Server Manager
 The Ultimate Server Browser & Utility Suite for BombSquad API 9
 
-Welcome to the most advanced, user-friendly server management tool ever built for BombSquad. Designed for power users and community players alike, Venom Server Manager transforms how you find, join, and share your favorite lobbies.
+Welcome to the most advanced server management tool built for the BombSquad community. Venom Server Manager is designed to streamline how you find, join, and organize your favorite lobbies.
 
 🚀 Key Features
 🌐 Advanced Server Management
-Auto-Name Updater: Tired of generic IPs? The mod automatically fetches real server names, including full Emoji and Special Font support, the moment you connect.
+⭐ Auto-Name Updater: Automatically fetches real server names, including full Emoji and Special Font support, the moment you connect.
 
-Persistent Saving: Add your favorite servers once; they stay saved in your config forever.
+⭐ Persistent Saving: Your favorite servers are saved locally and persist even after restarting the game.
 
-Smart Search: Instantly filter through dozens of servers with the integrated live search bar.
+⭐ Smart Search: Live search bar to instantly filter through your saved list by name or IP.
 
-Manual Reordering: Use the Up/Down arrows to keep your most important servers at the very top.
+⭐ Manual Reordering: Easy-to-use Up/Down arrows to organize your priority servers.
 
 ⚡ Power Tools
-Auto-Join (Spam Join): Never stare at a "Party Full" message again. One click and the mod will relentlessly attempt to join a full server until a slot opens.
+⭐ Auto-Join (Spam Join): Relentlessly attempts to join full servers every 4 seconds until a slot opens up.
 
-Last Played Tracker: Automatically records when you last joined a server.
+⭐ Last Played Tracker: Automatically logs the timestamp of your last connection.
 
-Smart Categorization: Enable "Category Mode" in settings to automatically divide your list into Played Today, This Week, and Older.
+⭐ Time Categorization: Optional setting to divide your list into "Played Today," "This Week," and "Older."
 
-📦 Seamless Sharing (JSON Engine)
-Row-Based Import/Export: Export a single server as a clean JSON string to share with a friend, or import a string directly into a specific slot.
+📦 Seamless Sharing
+⭐ Row-Based Import/Export: Export a specific server as a JSON string or import one directly into a slot via a clean UI prompt.
 
-Global Clipboard Tools: Bulk export your entire list or import a massive collection from your clipboard in one tap.
+⭐ Bulk Clipboard Tools: One-tap buttons to export your entire collection or import a massive list from your clipboard.
 
-🎨 Premium UI & Customization
-Sliding Developer Card: A stylish support menu that slides into the frame, giving you direct access to the creator.
+🎨 UI & Customization
+⭐ Theme Engine: Choose between Classic Blue, Crimson Claw, Forest Moss, or Venom Dark—saved automatically.
 
-Theme Engine: Choose between Classic Blue, Crimson Claw, Forest Moss, or Venom Dark. Your choice is remembered every time you restart the game.
-
-Modern Layout: Built specifically for API 9 with a clean, centered interface and top-left quick-exit controls.
+⭐ Modern API 9 Layout: Completely redesigned interface with top-left quick-exit controls and a spacious settings menu.
 
 🛠️ Developer & Community Support
-Live Update Checker: The mod pings GitHub on launch. If a new version is released, a glowing Update Available button appears automatically.
+⭐ Live Update Checker: Pings GitHub on launch to notify you instantly if a new version is available.
 
-Direct Bug Reporting: Found a glitch? Use the in-app reporter to securely post the issue directly to the GitHub repository.
+⭐ In-App Bug Reporter: Pre-fills a GitHub Issue with your mod version and bug description for fast support.
 
-Live Changelog: Read the latest patch notes and feature updates without ever leaving the game.
+⭐ Live Patch Notes: Fetch and read the latest changelog directly from within the game UI.
 
-📜 Credits & Licensing
-This project is built with passion for the BombSquad community.
+📜 Credits
+⭐ Lead Developer: VENOM (also known as ELIJAH)
 
-Lead Developer: VENOM (also known as ELIJAH)
+⭐ Framework: Built specifically for BombSquad API 9
 
-Special Thanks: Built using the BombSquad API 9 framework.
+"Slide into my DMs" — For feedback, bug reports, or collaborations, use the "Contact Dev" button in-game to reach my Discord.
 
-"Slide into my DMs" — Contact the developer via the in-game support menu for feedback or collaborations.
+⚖️ License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this mod, provided that the original credit to VENOM remains intact.
 
 📥 Installation
 Download Venom_servers.py.
 
-Place it in your BombSquad mods folder.
+Place the file into your BombSquad mods folder.
 
-Restart the game and look for the Venom Servers button on the main menu!
+Restart the game and click the Venom Servers button on the main menu!
